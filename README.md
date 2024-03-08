@@ -3,8 +3,11 @@ Portifólio de projeto de Data Science em Python
 
 # Projeto Simulador de Pesagens
 
-Trabalho de Análise de Dados aplicado na Mineração usando linguagem Python
-### Simulação de pesagem de caminhões na mineração ⚒
+![Imagem1](https://github.com/marciacf/Data_Science_Projeto_Python/assets/102993177/a5f1ecd0-d592-4ef9-ab87-ec13187fd48b)
+
+
+#### Trabalho de Análise de Dados aplicado na Mineração usando linguagem Python
+## Simulação de pesagem de caminhões na mineração ⚒
  
 A simulação em Python mostrou uma maneira de melhorar a eficiência 📈 no processo produtivo da empresa contratante.
 
